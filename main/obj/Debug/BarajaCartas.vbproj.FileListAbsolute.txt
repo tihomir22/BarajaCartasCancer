@@ -1,0 +1,11 @@
+C:\Users\sportak\source\repos\main\main\bin\Debug\main.exe.config
+C:\Users\sportak\source\repos\main\main\bin\Debug\main.exe
+C:\Users\sportak\source\repos\main\main\bin\Debug\main.pdb
+C:\Users\sportak\source\repos\main\main\bin\Debug\main.xml
+C:\Users\sportak\source\repos\main\main\obj\Debug\BarajaCartas.vbprojAssemblyReference.cache
+C:\Users\sportak\source\repos\main\main\obj\Debug\main.Resources.resources
+C:\Users\sportak\source\repos\main\main\obj\Debug\BarajaCartas.vbproj.GenerateResource.cache
+C:\Users\sportak\source\repos\main\main\obj\Debug\BarajaCartas.vbproj.CoreCompileInputs.cache
+C:\Users\sportak\source\repos\main\main\obj\Debug\main.exe
+C:\Users\sportak\source\repos\main\main\obj\Debug\main.xml
+C:\Users\sportak\source\repos\main\main\obj\Debug\main.pdb
